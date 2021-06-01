@@ -1,5 +1,6 @@
 aiofiles
 aiohttp[speedups]
+aria2p
 cloudscraper
 colour
 covid
