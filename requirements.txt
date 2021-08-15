@@ -1,6 +1,6 @@
 aiofiles
 aiohttp
-aria2p
+apscheduler
 cairosvg
 cloudscraper
 colour
@@ -22,14 +22,16 @@ hachoir
 heroku3
 html-telegraph-poster
 humanize
-ipdata
+IMDbPY
 jikanpy
 justwatch
 lottie
 lyricsgenius
+markdown
 motor
 moviepy
 nekos.py
+opencv-python-headless
 Pillow
 prettytable
 psutil
@@ -58,9 +60,8 @@ speedtest-cli
 sqlalchemy-json
 sqlalchemy==1.3.23
 telegraph
-Telethon
-TgCrypto
-tswift
+git+https://github.com/sandy1709/Telethon
+tgcrypto
 ujson
 urlextract
 validators
