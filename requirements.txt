@@ -1,6 +1,7 @@
 aiofiles
 aiohttp
 apscheduler
+aria2p
 cairosvg
 cloudscraper
 colour
